@@ -6,4 +6,5 @@ The state sequencer is an NXP LPC804 (ARM Cortex-M0+) based stored-voltage seque
 ## Features
 - 8-channel 14-bit output
   - TI DAC8168 (pin and library compatible with DAC7568, DAC8568)
-- States displayed on 
+- States displayed on 132x64 1.3" OLED (SH1106)
+- Reverse power protection via Schottky diodes
